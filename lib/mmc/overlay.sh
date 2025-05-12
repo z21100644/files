@@ -32,6 +32,6 @@ sed -i s#/mnt/data#/overlay# /etc/config/fstab
 
 sed -i '12s/1/0/g' /etc/config/fstab
 
-最后的最后就是输入reboot后重启就可以
+#最后的最后就是输入reboot后重启就可以
 
 reboot
