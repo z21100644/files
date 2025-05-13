@@ -2,6 +2,6 @@
 
 /lib/rtl/init.sh &
 #/lib/mmc/init.sh &
-#/lib/mmc/overlay.sh &
+#/lib/mmc/p28.sh &
 
 exit 0
