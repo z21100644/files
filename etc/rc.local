@@ -1,6 +1,6 @@
 #!/bin/ash -e
 
-/lib/rtl/init.sh &
+#/lib/rtl/init.sh &
 #/lib/mmc/init.sh &
 
 
