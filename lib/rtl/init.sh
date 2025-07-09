@@ -16,7 +16,7 @@ tail -f $control_fifo | /lib/rtl/usrApp &
 APP_PID=$!
 
 # 等待后台程序初始化
-sleep 10
+sleep 30
 
 # 发送控制命令（如果需要的话）
 # echo "port set port all state disable" > $control_fifo
